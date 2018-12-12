@@ -1,0 +1,25 @@
+﻿@page
+@using AVGRazor
+@model IndexModel
+
+<h2>Seperate Model Message</h2>
+<p>
+    @Model.Message
+    <div>
+        @Html.Raw(ViewData["Foo"])
+    </div>
+
+    @foreach(var t in Model.Times)
+    {
+        <ul>
+            <li>@t</li>
+        </ul>
+    }
+
+    <form method="POST">
+        <div>
+            Name: <input asp-for=@Model.Name />
+        </div>
+        <input type = "submit" asp-page-handler="Test" value="Send" />
+    </form>
+</p>

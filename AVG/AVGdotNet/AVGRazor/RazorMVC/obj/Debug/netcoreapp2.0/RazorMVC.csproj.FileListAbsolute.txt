@@ -1,0 +1,10 @@
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\bin\Debug\netcoreapp2.0\RazorMVC.deps.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\bin\Debug\netcoreapp2.0\RazorMVC.runtimeconfig.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\bin\Debug\netcoreapp2.0\RazorMVC.runtimeconfig.dev.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\bin\Debug\netcoreapp2.0\RazorMVC.dll
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\bin\Debug\netcoreapp2.0\RazorMVC.pdb
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\obj\Debug\netcoreapp2.0\RazorMVC.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\obj\Debug\netcoreapp2.0\RazorMVC.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\obj\Debug\netcoreapp2.0\RazorMVC.AssemblyInfo.cs
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\obj\Debug\netcoreapp2.0\RazorMVC.dll
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\RazorMVC\obj\Debug\netcoreapp2.0\RazorMVC.pdb

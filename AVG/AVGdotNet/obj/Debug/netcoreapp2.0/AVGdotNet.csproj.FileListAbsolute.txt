@@ -1,0 +1,11 @@
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\bin\Debug\netcoreapp2.0\AVGdotNet.deps.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\bin\Debug\netcoreapp2.0\AVGdotNet.runtimeconfig.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\bin\Debug\netcoreapp2.0\AVGdotNet.runtimeconfig.dev.json
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\bin\Debug\netcoreapp2.0\AVGdotNet.dll
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\bin\Debug\netcoreapp2.0\AVGdotNet.pdb
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.csprojResolveAssemblyReference.cache
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.AssemblyInfo.cs
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.dll
+C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\obj\Debug\netcoreapp2.0\AVGdotNet.pdb

@@ -1,0 +1,11 @@
+C:\Users\gebruiker\Documents\Projects\AVG\bin\Debug\netcoreapp2.0\AVG.deps.json
+C:\Users\gebruiker\Documents\Projects\AVG\bin\Debug\netcoreapp2.0\AVG.runtimeconfig.json
+C:\Users\gebruiker\Documents\Projects\AVG\bin\Debug\netcoreapp2.0\AVG.runtimeconfig.dev.json
+C:\Users\gebruiker\Documents\Projects\AVG\bin\Debug\netcoreapp2.0\AVG.dll
+C:\Users\gebruiker\Documents\Projects\AVG\bin\Debug\netcoreapp2.0\AVG.pdb
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.csprojResolveAssemblyReference.cache
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyInfo.cs
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.dll
+C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.pdb
