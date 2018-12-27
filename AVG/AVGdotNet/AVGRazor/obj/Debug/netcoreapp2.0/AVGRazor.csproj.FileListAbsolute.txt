@@ -8,3 +8,9 @@ C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreap
 C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.AssemblyInfo.cs
 C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.dll
 C:\Users\gebruiker\Documents\Projects\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.pdb
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.csprojAssemblyReference.cache
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.csproj.CoreCompileInputs.cache
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.AssemblyInfoInputs.cache
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.AssemblyInfo.cs
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.dll
+C:\Users\gwn_a\OneDrive\Documenten\GitHub\Abrazi-VideoGraphy\AVG\AVGdotNet\AVGRazor\obj\Debug\netcoreapp2.0\AVGRazor.pdb

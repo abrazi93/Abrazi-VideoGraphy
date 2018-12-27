@@ -9,3 +9,9 @@ C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyIn
 C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyInfo.cs
 C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.dll
 C:\Users\gebruiker\Documents\Projects\AVG\obj\Debug\netcoreapp2.0\AVG.pdb
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.csprojAssemblyReference.cache
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.csproj.CoreCompileInputs.cache
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyInfoInputs.cache
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.AssemblyInfo.cs
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.dll
+C:\Users\gwn_a\Documents\GitHub\Abrazi-VideoGraphy\AVG\obj\Debug\netcoreapp2.0\AVG.pdb
